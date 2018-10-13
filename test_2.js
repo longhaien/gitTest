@@ -13,3 +13,7 @@ function fn_3() {
 function fn_4() {
     
 }
+
+function func() {
+
+}
