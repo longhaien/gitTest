@@ -9,3 +9,7 @@ function fn_2() {
 function fn_3() {
 
 }
+
+function fn_4() {
+    
+}
